@@ -1,0 +1,1 @@
+select count(*) as Players_with_naor_in_their_name from players where PlayerName like "%Naor%";
