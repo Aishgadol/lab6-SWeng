@@ -1,0 +1,1 @@
+select avg(age) as average_age from players;

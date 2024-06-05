@@ -1,0 +1,1 @@
+select sum(budget) as sum_of_budgets from budget;
