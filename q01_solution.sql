@@ -1,0 +1,1 @@
+select * from players ORDER BY PlayerName asc;
