@@ -38,7 +38,7 @@ INSERT INTO Teams (Team, City, Established, Coach, Wins) VALUES
 
 INSERT INTO Players (PlayerName, TeamNum, Age) VALUES
 ('Gil Benny', 5, 23),
-('Yuval Zossman', 1, 22),
+('Yoval Zossman', 1, 22),
 ('Iftach Ziv', 5, 26),
 ('Omri Kasspi', 1, 32),
 ('Adam Ariel', 2, 27),
